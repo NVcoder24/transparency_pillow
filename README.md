@@ -14,7 +14,7 @@ cfg = {
 
 ## examples
 ###### input.png
-![image](https://github.com/NVcoder24/transparency_pillow/main/input.png)
+![image](https://github.com/NVcoder24/transparency_pillow/input.png)
 ###### output.png
-![image](https://github.com/NVcoder24/transparency_pillow/main/output.png)
+![image](https://github.com/NVcoder24/transparency_pillow/output.png)
 ###### everything based on default config!
