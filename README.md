@@ -1,6 +1,11 @@
 # transparency_pillow
 Program that adds transparency to the image :/
 
+## Libraries
+```bash
+pip install Pillow
+```
+
 ## config
 ```python
 cfg = {
